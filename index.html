@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--
+        Customize this policy to fit your own app's needs. For more guidance, see:
+            https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md#content-security-policy
+        Some notes:
+            * gap: is required only on iOS (when using UIWebView) and is needed for JS->native communication
+            * https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly
+            * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
+                * Enable inline JS: add 'unsafe-inline' to default-src
+        -->
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+        <title>DATAKU DIY</title>
+    </head>
+    <body>
+        <iframe id="myframe" src="http://bappeda.jogjaprov.go.id/dataku/new" frameborder="0"></iframe>
+        <style type="text/css">
+            #myframe{
+                position: fixed;
+                top:0;
+                left:0;
+                bottom:0;
+                right:0;
+                width: 100vw;
+                height: 100vh;
+                border:none;
+            }
+        </style>
+        <script type="text/javascript" src="cordova.js"></script>
+    </body>
+</html>
