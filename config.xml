@@ -8,7 +8,7 @@
         JMC Mobile Apps Team
     </author>
     <content src="index.html" />
-    <preference name="DisallowOverscroll" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
     <preference name="orientation" value="portrait" />
     <preference name="StatusBarBackgroundColor" value="#A81512" />
     <access origin="*" />
