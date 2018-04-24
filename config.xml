@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.jmc.jogjaplan" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.jmc.jogjaplan" version="1.4" versionCode="5" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Jogjaplan</name>
     <description>
         Aplikasi Jogjaplan Bappeda Daerah Istimewa Yogyakarta
