@@ -2,7 +2,7 @@
 <widget id="io.jmc.dimsbpbd" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>DIMS BPBD</name>
     <description>
-        Aplikasi Dataku Bappeda Daerah Istimewa Yogyakarta
+        Aplikasi DIMS BPBD DIY
     </description>
     <author email="support@jmc.co.id" href="http://jmc.co.id">
         JMC Mobile Apps Team
