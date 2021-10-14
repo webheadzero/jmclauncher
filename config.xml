@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.jmc.datakudiy" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Dataku DIY</name>
+<widget id="io.jmc.sitaruna" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Sitaruna Nganjuk</name>
     <description>
-        Aplikasi Dataku Bappeda Daerah Istimewa Yogyakarta
+        Aplikasi Sitaruna Nganjuk
     </description>
     <author email="support@jmc.co.id" href="http://jmc.co.id">
         JMC Mobile Apps Team
